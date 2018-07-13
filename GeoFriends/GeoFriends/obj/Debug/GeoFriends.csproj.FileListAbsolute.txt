@@ -1,0 +1,6 @@
+D:\Claudenir\Projetos\GeoFriends\GeoFriends\GeoFriends\bin\Debug\GeoFriends.exe.config
+D:\Claudenir\Projetos\GeoFriends\GeoFriends\GeoFriends\obj\Debug\GeoFriends.csprojResolveAssemblyReference.cache
+D:\Claudenir\Projetos\GeoFriends\GeoFriends\GeoFriends\bin\Debug\GeoFriends.exe
+D:\Claudenir\Projetos\GeoFriends\GeoFriends\GeoFriends\bin\Debug\GeoFriends.pdb
+D:\Claudenir\Projetos\GeoFriends\GeoFriends\GeoFriends\obj\Debug\GeoFriends.exe
+D:\Claudenir\Projetos\GeoFriends\GeoFriends\GeoFriends\obj\Debug\GeoFriends.pdb
